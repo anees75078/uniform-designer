@@ -44,7 +44,7 @@ export const uniformConfigs: UniformConfig[] = [
           "layers": [
             {
               "id": "shirt-body-front",
-              "label": "Shirt Body",
+              "label": "Shirt Boddy",
               "defaultColor": "#4A90E2"
             },
             {
